@@ -2,7 +2,7 @@
 
 **Last updated: [Date]**
 
-This privacy policy describes how the application **[App Name]** (hereinafter referred to as "we," "our," or "us") collects, uses, and protects user information (hereinafter referred to as "you" or "your") in connection with our trivia application.
+This privacy policy describes how the application **BrainMii** (hereinafter referred to as "we," "our," or "us") collects, uses, and protects user information (hereinafter referred to as "you" or "your") in connection with our trivia application.
 
 ## Information We Collect
 
@@ -26,4 +26,4 @@ We may update our privacy policy from time to time. We will notify you of any ch
 
 ## Contact
 
-If you have any questions about this privacy policy, please contact us at: **[your contact email address]**.
+If you have any questions about this privacy policy, please contact us at: **alexandre.boving@gmail.com**.
