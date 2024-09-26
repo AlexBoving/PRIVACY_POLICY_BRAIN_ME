@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: [Date]**
+**Last updated: 26/10/2024**
 
 This privacy policy describes how the application **BrainMii** (hereinafter referred to as "we," "our," or "us") collects, uses, and protects user information (hereinafter referred to as "you" or "your") in connection with our trivia application.
 
